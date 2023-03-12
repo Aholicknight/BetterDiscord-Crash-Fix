@@ -1,5 +1,5 @@
 # BetterDiscord Crash Fix
----
+
 
 This program fixes the settings crash for BetterDiscord, which deletes and replaces the fixed files.
 
